@@ -4,7 +4,10 @@ use for laravel
 
 Install in PHPStorm
 
-1. "git clone" repository in you projects folders
+1. Create project from VCS in PHPStorm IDE:
+   1. Open any you existing project
+   2. File-> Close Projects or Close All Projects -> Get from VCS
+   3. Pick this repository https://github.com/e-terin/docker-nginx-php_fpm-mysql, then "OK"
 2. Rename file .env.example to .env
 3. Custom networks section in .env if necessary and other params
 4. Make a new project in PHPStorm (File-> New Project-> Select Path to folder -> Open )
